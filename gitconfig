@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jbutler6@live.co.uk
+	name = Josh Butler
